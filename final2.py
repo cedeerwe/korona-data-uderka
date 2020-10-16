@@ -100,7 +100,7 @@ with open(schools, 'r') as school_stream:
 
     l = []
     for key, val in okres.items():
-        l.append([key, val])
+        l.append([key, val])    
 
     okresy_df = pandas.DataFrame(l, columns=['area', 'positive'])
 
@@ -108,5 +108,3 @@ with open(schools, 'r') as school_stream:
     # print(okresy_df)
     # print(dist_to_vytazenost)
     df.to_csv('final_dist.csv')
-
-    
