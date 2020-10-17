@@ -1,4 +1,4 @@
-file = 'middle_schools_with_students'
+file = 'schools_with_students'
 
 def format(s): return s.format("utf-8")
 def format_obj(obj): return {

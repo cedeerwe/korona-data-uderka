@@ -23,15 +23,16 @@ obce = pd.read_csv(obce, names=['village_id', 'village_name', 'district_id', 'di
 obce[VILLAGE] = obce[VILLAGE].str.replace(' ','_')
 
 def getUrl(village_name):
-    return 'http://mapaskol.iedu.sk/dogrss/getSearchResult.aspx?q=all---{}---------all------all---GYM_GYM-ND_SO%C5%A0_KON_S%C5%A0-ZZ---all---all------ASC'.format(urllib.parse.quote(village_name))
-    # return 'http://mapaskol.iedu.sk/dogrss/getSearchResult.aspx?q=all---{}---------all------all---M%C5%A0_Z%C5%A0-ZZ_Z%C5%A0_Z%C5%A0-ND_Z%C5%A0-ZZ_GYM_GYM-ND_SO%C5%A0_KON_S%C5%A0-ZZ---all---all------ASC'.format(urllib.parse.quote(village_name))
+    # return 'http://mapaskol.iedu.sk/dogrss/getSearchResult.aspx?q=all---{}---------all------all---GYM_GYM-ND_SO%C5%A0_KON_S%C5%A0-ZZ---all---all------ASC'.format(urllib.parse.quote(village_name))
+    return 'http://mapaskol.iedu.sk/dogrss/getSearchResult.aspx?q=all---{}---------all------all---M%C5%A0_Z%C5%A0-ZZ_Z%C5%A0_Z%C5%A0-ND_Z%C5%A0-ZZ_GYM_GYM-ND_SO%C5%A0_KON_S%C5%A0-ZZ---all---all------ASC'.format(urllib.parse.quote(village_name).replace("_", r"%20"))
 
 villages_to_schools = defaultdict(list)
 
 for index, row in obce.iterrows():
   url = getUrl(row['village_name'])
   page = urllib.request.urlopen(url)
-  soup = BeautifulSoup(page)
+  soup = BeautifulSoup(page, features="html.parser")
+
   trs = soup.find_all('tr')
   for tr in trs:
     tds = list(tr.find_all('td'))
@@ -47,6 +48,6 @@ for index, row in obce.iterrows():
     print('finished {}'.format(row['village_name']))
 
 import json
-with open('middle_schools_with_students.json', 'w') as fp:
+with open('schools_with_students.json', 'w') as fp:
     json.dump(villages_to_schools, fp)    
 

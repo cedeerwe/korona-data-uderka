@@ -1,0 +1,835 @@
+"Bansk\xE1 Bystrica":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 25
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Matersk\xE1 \u0161kola - Senica, L.Novomesk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 20318
+    obec: Senica
+  - "Navrhovan\xE1 \u0161kola": "Matersk\xE1 \u0161kola - Senica, L.Novomesk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 20318
+    obec: Senica
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - B.Bystrica, Spojov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 17
+    "Po\u010Det obyvate\u013Eov": 79368
+    obec: "Bansk\xE1 Bystrica"
+"Bansk\xE1 \u0160tiavnica":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 3
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - B.\u0160tiavnica, P.Dob\u0161insk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 10259
+    obec: "Bansk\xE1 \u0160tiavnica"
+Bardejov:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 16
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Bardejov, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 16
+    "Po\u010Det obyvate\u013Eov": 33296
+    obec: Bardejov
+Bratislava I:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 38823
+    obec: "Bratislava - Star\xE9 Mesto"
+Bratislava II:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 14
+    "Po\u010Det obyvate\u013Eov": 70098
+    obec: "Bratislava - Ru\u017Einov"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 21289
+    obec: "Bratislava - Podunajsk\xE9 Biskupice"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 19664
+    obec: "Bratislava - Vraku\u0148a"
+Bratislava III:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 12
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 20251
+    obec: "Bratislava - Ra\u010Da"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 36914
+    obec: "Bratislava - Nov\xE9 Mesto"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 5381
+    obec: Bratislava - Vajnory
+Bratislava IV:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 18
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 33099
+    obec: Bratislava - Karlova Ves
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 32891
+    obec: "Bratislava - D\xFAbravka"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 15881
+    obec: "Bratislava - Dev\xEDnska Nov\xE1 Ves"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 6899
+    obec: "Bratislava - Lama\u010D"
+Bratislava V:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 22
+    "Po\u010Det obyvate\u013Eov": 104914
+    obec: "Bratislava - Petr\u017Ealka"
+Brezno:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 15
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Skalica, Vajansk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 14714
+    obec: Skalica
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Skalica, Vajansk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 14714
+    obec: Skalica
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Brezno, Pionierska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 21534
+    obec: Brezno
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u010Cierny Balog, J\xE1no\u0161ovka, \u0160\
+      kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 5206
+    obec: "\u010Cierny Balog"
+"Byt\u010Da":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 7
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Byt\u010Da,  mieru"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 11293
+    obec: "Byt\u010Da"
+"B\xE1novce nad Bebravou":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - B\xE1novce n.B., Partiz\xE1nska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 19133
+    obec: "B\xE1novce nad Bebravou"
+Detva:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Gym. H.S. s VJM - Kom\xE1rno, B.Kir\xE1lya"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 34561
+    obec: "Kom\xE1rno"
+  - "Navrhovan\xE1 \u0161kola": "Gym. H.S. s VJM - Kom\xE1rno, B.Kir\xE1lya"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 34561
+    obec: "Kom\xE1rno"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Detva,  Obrancov mieru"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 15024
+    obec: Detva
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Hri\u0148ov\xE1, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 7696
+    obec: "Hri\u0148ov\xE1"
+"Doln\xFD Kub\xEDn":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - D.Kub\xEDn, Koh\xFAtov sad"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 19424
+    obec: "Doln\xFD Kub\xEDn"
+"Dunajsk\xE1 Streda":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 24
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s VJM - Gab\u010D\xEDkovo, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5371
+    obec: "Gab\u010D\xEDkovo"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s VJM - D.Streda, \u0160kolsk\xE1 "
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 22481
+    obec: "Dunajsk\xE1 Streda"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s VJM - Ve\u013Ek\xFD Meder, Bratislavsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 8828
+    obec: "Ve\u013Ek\xFD Meder"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 M.Bela - \u0160amor\xEDn, Kl\xE1\u0161torn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 12992
+    obec: "\u0160amor\xEDn"
+Galanta:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 19
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Galanta, \u0160tvr\u0165 SNP"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 15063
+    obec: Galanta
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Sere\u010F,  F\xE1ndlyho 763/7A"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 16106
+    obec: "Sere\u010F"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 ako o.z. Spoj.\u0161 - Sl\xE1dkovi\u010D\
+      ovo, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5365
+    obec: "Sl\xE1dkovi\u010Dovo"
+Gelnica:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 6
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Gelnica, Hlavn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 6210
+    obec: Gelnica
+Hlohovec:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 9
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Hlohovec, Podz\xE1mska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 9
+    "Po\u010Det obyvate\u013Eov": 22441
+    obec: Hlohovec
+"Humenn\xE9":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 15
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Humenn\xE9, \u0160tef\xE1nikova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 15
+    "Po\u010Det obyvate\u013Eov": 34455
+    obec: "Humenn\xE9"
+Ilava:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 11
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Dubnica n.V., Centrum I"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 24975
+    obec: "Dubnica nad V\xE1hom"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ilava, Med\u0148ansk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 5483
+    obec: Ilava
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - N.Dubnica, Janka Kr\xE1\u013Ea"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 11331
+    obec: "Nov\xE1 Dubnica"
+"Ke\u017Emarok":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 15
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ke\u017Emarok, Dr.Daniela Fischera"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 9
+    "Po\u010Det obyvate\u013Eov": 16693
+    obec: "Ke\u017Emarok"
+  - "Navrhovan\xE1 \u0161kola": "S\u0160 - Z\u0160 - Lendak, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5135
+    obec: Lendak
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 J.M.P. - Spi\u0161.Bel\xE1, Moskovsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 6503
+    obec: "Spi\u0161sk\xE1 Bel\xE1"
+"Kom\xE1rno":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Nesvady, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 5090
+    obec: Nesvady
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 M.Korv\xEDna s VJM - Kol\xE1rovo, \u0160\
+      kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 10
+    "Po\u010Det obyvate\u013Eov": 10665
+    obec: "Kol\xE1rovo"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Hurbanovo, N\xE1m.Konkolyho-Thege"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 7656
+    obec: Hurbanovo
+"Ko\u0161ice I":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 9
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 20391
+    obec: "Ko\u0161ice - Star\xE9 Mesto"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 23047
+    obec: "Ko\u0161ice - S\xEDdlisko \u0164ahanovce"
+"Ko\u0161ice II":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 14
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 40567
+    obec: "Ko\u0161ice - Z\xE1pad"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 24858
+    obec: "Ko\u0161ice - S\xEDdlisko KVP"
+  - "Navrhovan\xE1 \u0161kola": "Nech\xE1vame na uv\xE1\u017Een\xED okresu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 6193
+    obec: "Ko\u0161ice - Lun\xEDk IX"
+"Ko\u0161ice-okolie":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 25
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u010Ca\u0148a, Pionierska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 5642
+    obec: "\u010Ca\u0148a"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Moldava n.B., \u010Csl.arm\xE1dy"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 17
+    "Po\u010Det obyvate\u013Eov": 11186
+    obec: Moldava nad Bodvou
+Krupina:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 6
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Krupina, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 8010
+    obec: Krupina
+"Kysuck\xE9 Nov\xE9 Mesto":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 6
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SP\u0160 inf. technol\xF3gi\xED - Kysuck\xE9 N.M.,\
+      \ N\xE1bre\u017En\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 15551
+    obec: "Kysuck\xE9 Nov\xE9 Mesto"
+Levice:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u017Deliezovce, Mierov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 7115
+    obec: "\u017Deliezovce"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Levice, Pri Podlu\u017Eianke"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 18
+    "Po\u010Det obyvate\u013Eov": 34226
+    obec: Levice
+"Levo\u010Da":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Levo\u010Da, Ga\u0161para Haina"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 14827
+    obec: "Levo\u010Da"
+"Liptovsk\xFD Mikul\xE1\u0161":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 16
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Lipt.Mikul\xE1\u0161, N\xE1br.4.apr\xED\
+      la"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 13
+    "Po\u010Det obyvate\u013Eov": 31772
+    obec: "Liptovsk\xFD Mikul\xE1\u0161"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Lipt.Hr\xE1dok, Hradn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7608
+    obec: "Liptovsk\xFD Hr\xE1dok"
+"Lu\u010Denec":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 15
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SO\u0160 hotel. sl a dopravy - Lu\u010Denec, Zvolensk\xE1\
+      \ c."
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 28335
+    obec: "Lu\u010Denec"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 \u0160. K. II - Fi\u013Eakovo, Ml\xE1de\u017E\
+      n\xEDcka"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 10772
+    obec: "Fi\u013Eakovo"
+Malacky:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Malacky, Gen.M.R.\u0160tef\xE1nika"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 17087
+    obec: Malacky
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Stupava, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 9944
+    obec: Stupava
+Martin:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 20
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Martin, Hurbanova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 18
+    "Po\u010Det obyvate\u013Eov": 56526
+    obec: Martin
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Vr\xFAtky, \u010Cachovsk\xFD rad"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 7664
+    obec: "Vr\xFAtky"
+Medzilaborce:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 2
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Medzilaborce, Duchnovi\u010Dova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 6730
+    obec: Medzilaborce
+Michalovce:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Michalovce, Okru\u017En\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 18
+    "Po\u010Det obyvate\u013Eov": 39719
+    obec: Michalovce
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 POH - V.Kapu\u0161any, S\xEDd.P.O.Hviezdoslava"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 9321
+    obec: "Ve\u013Ek\xE9 Kapu\u0161any"
+Myjava:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 6
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Myjava, \u0160t\xFArova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 12114
+    obec: Myjava
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Brezov\xE1 p.B., S\xEDdl.Doln\xE9 L\xFA\
+      ky"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5041
+    obec: "Brezov\xE1 pod Bradlom"
+Nitra:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 32
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Nitra, Benkova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 29
+    "Po\u010Det obyvate\u013Eov": 78351
+    obec: Nitra
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Vr\xE1ble, S\xEDdl.L\xFAky"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 8843
+    obec: "Vr\xE1ble"
+"Nov\xE9 Mesto nad V\xE1hom":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Matersk\xE1 \u0161kola - N.M.n.V\xE1hom, Po\u013E\
+      ovn\xEDcka"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 9
+    "Po\u010Det obyvate\u013Eov": 20208
+    obec: "Nov\xE9 Mesto nad V\xE1hom"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - St.Tur\xE1, Hurbanova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 9207
+    obec: "Star\xE1 Tur\xE1"
+"Nov\xE9 Z\xE1mky":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 26
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Nov\xE9 Z\xE1mky, N\xE1bre\u017En\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 19
+    "Po\u010Det obyvate\u013Eov": 39219
+    obec: "Nov\xE9 Z\xE1mky"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Dvory n.\u017D., Hl.n\xE1m."
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5148
+    obec: "Dvory nad \u017Ditavou"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 E.Adyho s VJM - \u0160t\xFArovo, Adyho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 10666
+    obec: "\u0160t\xFArovo"
+"N\xE1mestovo":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 12
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Gym. A. Bernol\xE1ka - N\xE1mestovo, Mieru"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 7915
+    obec: "N\xE1mestovo"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 J. Vojta\u0161\u0161\xE1ka - Z\xE1\
+      kamenn\xE9"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 5300
+    obec: "Z\xE1kamenn\xE9"
+"Partiz\xE1nske":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SO\u0160 J.A.B. - Partiz\xE1nske, N\xE1m.SNP"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 23709
+    obec: "Partiz\xE1nske"
+Pezinok:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 12
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Sv\xE4t\xFD Jur, Koll\xE1rova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5442
+    obec: "Sv\xE4t\xFD Jur"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Modra, Komensk\xE9ho 1/A"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 8785
+    obec: Modra
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Pezinok, F\xE1ndlyho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 21851
+    obec: Pezinok
+"Pie\u0161\u0165any":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Pie\u0161\u0165any, Brezov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 28047
+    obec: "Pie\u0161\u0165any"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Vrbov\xE9, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 6122
+    obec: "Vrbov\xE9"
+"Polt\xE1r":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 5
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Polt\xE1r, Slobody"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 5772
+    obec: "Polt\xE1r"
+Poprad:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 21
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "S\u0160 - Gym - Poprad, Dominika Tatarku"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 18
+    "Po\u010Det obyvate\u013Eov": 52654
+    obec: Poprad
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Svit, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7679
+    obec: Svit
+"Pova\u017Esk\xE1 Bystrica":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SO\u0160 strojn\xEDcka - Pov. Bystrica, \u0160portovcov"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 13
+    "Po\u010Det obyvate\u013Eov": 40817
+    obec: "Pova\u017Esk\xE1 Bystrica"
+"Pre\u0161ov":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 17
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ve\u013Ek\xFD \u0160ari\u0161, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 17
+    "Po\u010Det obyvate\u013Eov": 5630
+    obec: "Ve\u013Ek\xFD \u0160ari\u0161"
+Prievidza:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 30
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Handlov\xE1, Mierov\xE9 n\xE1m."
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 17615
+    obec: "Handlov\xE1"
+  - "Navrhovan\xE1 \u0161kola": "Gym.V.B.Nedo\u017Eersk\xE9ho - Prievidza, Matice\
+      \ slovenskej"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 22
+    "Po\u010Det obyvate\u013Eov": 48134
+    obec: Prievidza
+"P\xFAchov":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - P\xFAchov, Ml\xE1de\u017En\xEDcka"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 18121
+    obec: "P\xFAchov"
+"Rev\xFAca":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 9
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 J.A.K - Rev\xFAca, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 12696
+    obec: "Rev\xFAca"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 F.K. - Torna\u013Ea, Mierov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7415
+    obec: "Torna\u013Ea"
+"Rimavsk\xE1 Sobota":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 18
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 P.K.H. - Rim.Sobota, Dru\u017Estevn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 14
+    "Po\u010Det obyvate\u013Eov": 24322
+    obec: "Rimavsk\xE1 Sobota"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 J.F.R. - Hn\xFA\u0161\u0165a, N\xE1br.Rimavy"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 7721
+    obec: "Hn\xFA\u0161\u0165a"
+"Ro\u017E\u0148ava":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ro\u017E\u0148ava, Zlat\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 10
+    "Po\u010Det obyvate\u013Eov": 19505
+    obec: "Ro\u017E\u0148ava"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Dob\u0161in\xE1, Zimn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5685
+    obec: "Dob\u0161in\xE1"
+"Ru\u017Eomberok":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 11
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ru\u017Eomberok, Zarev\xFAca"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 27884
+    obec: "Ru\u017Eomberok"
+Sabinov:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 12
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Lipany, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 6454
+    obec: Lipany
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Jarovnice"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5935
+    obec: Jarovnice
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Sabinov,  17.novembra"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 12704
+    obec: Sabinov
+Senec:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ivanka pri Dunaji,  SNP"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 6087
+    obec: Ivanka pri Dunaji
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Bernol\xE1kovo, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5960
+    obec: "Bernol\xE1kovo"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Senec, Tajovsk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 17806
+    obec: Senec
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Dunajsk\xE1 Lu\u017En\xE1, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5195
+    obec: "Dunajsk\xE1 Lu\u017En\xE1"
+Senica:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 12
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\xE1kladn\xE1 umeleck\xE1 \u0161kola - \u0160a\u0161\
+      t\xEDn-Str\xE1\u017Ee, J.Holl\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 12
+    "Po\u010Det obyvate\u013Eov": 5136
+    obec: "\u0160a\u0161t\xEDn - Str\xE1\u017Ee"
+Skalica:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 9
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SO\u0160 dopravy a slu\u017Eieb - Hol\xED\u010D,\
+      \ N\xE1m.sv.Martina"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 6
+    "Po\u010Det obyvate\u013Eov": 11196
+    obec: "Hol\xED\u010D"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Gbely, Pionierska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 5186
+    obec: Gbely
+Snina:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 8
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Snina, Hviezdoslavova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 20496
+    obec: Snina
+Sobrance:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 5
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Sobrance, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 5
+    "Po\u010Det obyvate\u013Eov": 5957
+    obec: Sobrance
+"Spi\u0161sk\xE1 Nov\xE1 Ves":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 19
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Spi\u0161.N.V., Nad Medzou"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 13
+    "Po\u010Det obyvate\u013Eov": 37795
+    obec: "Spi\u0161sk\xE1 Nov\xE1 Ves"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Krompachy, SNP"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 8877
+    obec: Krompachy
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Smi\u017Eany, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 8636
+    obec: "Smi\u017Eany"
+"Star\xE1 \u013Dubov\u0148a":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 11
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - St.\u013Dubov\u0148a, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 16359
+    obec: "Star\xE1 \u013Dubov\u0148a"
+Stropkov:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 4
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Stropkov, Mlynsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 10837
+    obec: Stropkov
+"Svidn\xEDk":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 7
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Svidn\xEDk,  Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 7
+    "Po\u010Det obyvate\u013Eov": 11444
+    obec: "Svidn\xEDk"
+"Topo\u013E\u010Dany":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 14
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Topo\u013E\u010Dany, Tribe\u010Dsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 14
+    "Po\u010Det obyvate\u013Eov": 26629
+    obec: "Topo\u013E\u010Dany"
+"Trebi\u0161ov":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 16
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Kr\xE1\u013Eovsk\xFD Chlmec, L.Kossutha"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 7704
+    obec: "Kr\xE1\u013Eovsk\xFD Chlmec"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Se\u010Dovce, Komensk\xE9ho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 8316
+    obec: "Se\u010Dovce"
+"Tren\u010D\xEDn":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 22
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Tren\u010D\xEDn, Hod\u017Eova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 20
+    "Po\u010Det obyvate\u013Eov": 55886
+    obec: "Tren\u010D\xEDn"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Nem\u0161ov\xE1, Janka Palu"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 6271
+    obec: "Nem\u0161ov\xE1"
+Trnava:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 26
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Trnava, Spartakovsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 26
+    "Po\u010Det obyvate\u013Eov": 65978
+    obec: Trnava
+"Tur\u010Dianske Teplice":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 3
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - Tur\u010D.Teplice, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 6570
+    obec: "Tur\u010Dianske Teplice"
+"Tvrdo\u0161\xEDn":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 7
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Gym. M. Hattalu - Trsten\xE1, \u017Delezni\u010D\
+      iarov"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7463
+    obec: "Trsten\xE1"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Tvrdo\u0161\xEDn, Medvedzie"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 4
+    "Po\u010Det obyvate\u013Eov": 9360
+    obec: "Tvrdo\u0161\xEDn"
+"Ve\u013Ek\xFD Krt\xED\u0161":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 10
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Ve\u013Ek\xFD Krt\xED\u0161, N\xE1m.A.H.\u0160\
+      kult\xE9tyho"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 10
+    "Po\u010Det obyvate\u013Eov": 12608
+    obec: "Ve\u013Ek\xFD Krt\xED\u0161"
+"Vranov nad Top\u013Eou":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 16
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Vranov n.T., S\xEDdl.II."
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 16
+    "Po\u010Det obyvate\u013Eov": 23041
+    obec: "Vranov nad Top\u013Eou"
+"Zlat\xE9 Moravce":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 9
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Zl.Moravce, Mojm\xEDrova"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 9
+    "Po\u010Det obyvate\u013Eov": 12007
+    obec: "Zlat\xE9 Moravce"
+Zvolen:
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 13
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "SO\u0160 - Zvolen, Jablo\u0148ov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 12
+    "Po\u010Det obyvate\u013Eov": 43100
+    obec: Zvolen
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 A.S. - Slia\u010D, Pionierska"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 1
+    "Po\u010Det obyvate\u013Eov": 5025
+    obec: "Slia\u010D"
+"\u010Cadca":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 20
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Gym. J. M. Hurbana - \u010Cadca, 17.novembra"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 9
+    "Po\u010Det obyvate\u013Eov": 24739
+    obec: "\u010Cadca"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Kr\xE1sno n.K., Ml\xE1de\u017En\xEDcka"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 6837
+    obec: "Kr\xE1sno nad Kysucou"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Skalit\xE9"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5247
+    obec: "Skalit\xE9"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - O\u0161\u010Dadnica, \xDAstredie"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5639
+    obec: "O\u0161\u010Dadnica"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Rakov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5395
+    obec: "Rakov\xE1"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Turzovka, Bukovina"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7684
+    obec: Turzovka
+"\u0160a\u013Ea":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 11
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 s M\u0160 - \u0160a\u013Ea, Horn\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 11
+    "Po\u010Det obyvate\u013Eov": 23098
+    obec: "\u0160a\u013Ea"
+"\u017Darnovica":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 6
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 J.Z. - Nov\xE1 Ba\u0148a, \u0160kolsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 7567
+    obec: "Nov\xE1 Ba\u0148a"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u017Darnovica, Fra\u0148a Kr\xE1\u013E\
+      a"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 3
+    "Po\u010Det obyvate\u013Eov": 6431
+    obec: "\u017Darnovica"
+"\u017Diar nad Hronom":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 10
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u017Diar n.H.,  M.R.\u0160tef\xE1nika"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 8
+    "Po\u010Det obyvate\u013Eov": 19647
+    obec: "\u017Diar nad Hronom"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Kremnica, Angyalova "
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5528
+    obec: Kremnica
+"\u017Dilina":
+  "Navrhovan\xFD po\u010Det odberov\xFDch miest pre okres": 31
+  "Odberov\xE9 miesta":
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - \u017Dilina, Karpatsk\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 29
+    "Po\u010Det obyvate\u013Eov": 81273
+    obec: "\u017Dilina"
+  - "Navrhovan\xE1 \u0161kola": "Z\u0160 - Rajec, Lipov\xE1"
+    "Navrhovan\xFD po\u010Det odberov\xFDch jednotiek pre obec": 2
+    "Po\u010Det obyvate\u013Eov": 5889
+    obec: Rajec
